@@ -34,8 +34,6 @@ This potential is inspired by **AdS/CFT boundary projection** and is numerically
 - Fully verified using shift-invert sparse eigenvalue decomposition
 
 
-Holographic Realization of Riemann Zeros via a Hilbert-P´olya Operator
-
-https://zenodo.org/records/15347101
+Holographic Realization of Riemann Zeros via a Hilbert-P´olya Operator https://zenodo.org/records/15347101
 
 
